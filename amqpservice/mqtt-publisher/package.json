@@ -1,0 +1,14 @@
+{
+  "name": "mqtt-publisher",
+  "version": "1.0.0",
+  "description": "mqtt",
+  "main": "publisher.js",
+  "scripts": {
+    "start": "node publisher"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}

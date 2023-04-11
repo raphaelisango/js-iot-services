@@ -1,0 +1,15 @@
+{
+  "name": "mqtt-subscriber",
+  "version": "1.0.0",
+  "description": "mqtt",
+  "main": "subscriber.js",
+  "scripts": {
+    "start": "node subscriber"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "url": "^0.11.0"
+  }
+}
